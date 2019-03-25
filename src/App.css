@@ -1,0 +1,156 @@
+#aff{
+  display:none;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 400px;
+  padding: 30px;
+  text-align: left;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 20px 75px rgba(0, 0, 0, 0.13);
+  color: #666;
+ width:36%;
+}
+#formu{
+  margin-left: 300px;
+}
+#aff1{
+  display:block;
+  
+}
+#prix{
+ margin-left:150px;
+}
+#t{
+  text-align: left;
+  width: 30px;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+#t1{
+  text-align: left;
+  width: 30px;
+  
+}
+.lab{
+ 
+  margin-left: 20px !important;
+  
+}
+.t{
+  border-top-color: white!important;
+  border-bottom-color: white !important;;
+}
+.t1{
+  border-top-color: white;
+  border-bottom-color: white;
+}
+.t2{
+  border-top-color: white !important;
+  border-bottom-color: white !important;
+}
+#table{
+  border-top-color: white;
+}
+.ff{
+  display:flex;
+
+}
+#gg{
+  margin-left: 290px;
+  margin-bottom: 20px;
+ }
+ #sss{
+   text-align: left;
+ }
+#aff4{
+  margin-left: 780px;
+  border:1px solid
+ }
+#buton{
+  margin-right: 20px;
+  margin-left:  0px;
+}
+#buton2{
+  margin-right: 20px;
+  margin-left:  0px;
+}
+#buton3{
+ 
+  margin-left:  -20px;
+}
+
+#buton1{
+  width:350px;
+  margin-bottom: 10px;
+  margin-top: -30px;
+}
+form{
+  text-align: center;
+  margin-left: 00px;
+  border: 1px solid black;
+}
+#file {
+  border: 1px solid;
+  text-align: center !important;
+  width: 110px;
+  height: 40px;
+  margin-left: 230px !important;
+}
+
+.fichier {
+  text-align: center !important;
+  width: 110px;
+  height: 40px;
+  margin-left: 300px !important;
+}
+.com{
+  display:flex
+}
+#ereur{
+  color: red;
+  margin-left: 0px
+}
+img{
+  height: 200px !important;
+}
+.coeur{
+  color: red;
+}
+#like{
+  display:flex;
+}
+.hear{
+  display:flex;
+  margin-left:100px;
+}
+#carte {
+  width: 300px;
+  margin-top:20px;
+  
+}
+.ccc{
+  overflow: hidden;
+  position: relative; 
+  line-height: 1.2em;
+  max-height: 3.6em; 
+  text-align: justify;
+  margin-right: -1em;
+  padding-right: 1em;
+  
+}
+.ccc:before {
+  content: '...';
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  
+}
+.ccc:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  background: white;
+}
